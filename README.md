@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kanekiusesarch
-- 👀 I’m interested in hacking anonymouse anime linux homebrew 
+- 👀 I’m interested in hacking cybersecurty anime linux homebrew of consoles 
 - 🌱 I’m currently learning nothing 
 - 💞️ I’m looking to collaborate on linux projects
 - 📫 How to reach me .
