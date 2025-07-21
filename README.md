@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @kanekiusesarch
-- 👀 I’m interested in hacking cybersecurty anime linux homebrew of consoles 
-- 🌱 I’m currently learning nothing 
-- 💞️ I’m looking to collaborate on linux projects
-- 📫 How to reach me .
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: i use arch btw
+heyo im kaneki and i make mostly rom lists or some quirky thing like a chatgpt bypass 
+i love linux (using a custom arch based distro by me) i also love anime (tokyo ghoul death note and the manga ofc)
+i love custom romming phones cuz yes and it cam breath life in old phones 
+
 
 <!---
 kanekiusesarch/kanekiusesarch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
